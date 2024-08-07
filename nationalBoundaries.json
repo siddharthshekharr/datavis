@@ -1,0 +1,25 @@
+{
+    "type": "Topology",
+    "objects": {
+      "boundaries": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "arcs": [[0]],
+            "properties": {"name": "United Kingdom"}
+          }
+        ]
+      }
+    },
+    "arcs": [
+      [
+        [-10.854492, 49.823809],
+        [-2.021484, 49.823809],
+        [-2.021484, 58.922862],
+        [-10.854492, 58.922862],
+        [-10.854492, 49.823809]
+      ]
+    ]
+  }
+  

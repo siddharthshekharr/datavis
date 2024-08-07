@@ -1,0 +1,16 @@
+Region,Latitude,Longitude,Population,DemographicFactor,Detail
+London,51.5074,-0.1278,9000000,Total,Details about London population
+London,51.5074,-0.1278,3000000,Age 0-19,Details about Age 0-19 in London
+London,51.5074,-0.1278,4000000,Age 20-39,Details about Age 20-39 in London
+London,51.5074,-0.1278,1500000,Age 40-59,Details about Age 40-59 in London
+London,51.5074,-0.1278,500000,Age 60+,Details about Age 60+ in London
+Manchester,53.483959,-2.244644,2800000,Total,Details about Manchester population
+Manchester,53.483959,-2.244644,900000,Age 0-19,Details about Age 0-19 in Manchester
+Manchester,53.483959,-2.244644,1300000,Age 20-39,Details about Age 20-39 in Manchester
+Manchester,53.483959,-2.244644,450000,Age 40-59,Details about Age 40-59 in Manchester
+Manchester,53.483959,-2.244644,150000,Age 60+,Details about Age 60+ in Manchester
+Birmingham,52.486244,-1.890401,4200000,Total,Details about Birmingham population
+Birmingham,52.486244,-1.890401,1300000,Age 0-19,Details about Age 0-19 in Birmingham
+Birmingham,52.486244,-1.890401,1700000,Age 20-39,Details about Age 20-39 in Birmingham
+Birmingham,52.486244,-1.890401,800000,Age 40-59,Details about Age 40-59 in Birmingham
+Birmingham,52.486244,-1.890401,400000,Age 60+,Details about Age 60+ in Birmingham
