@@ -4,13 +4,40 @@ London,51.5074,-0.1278,3000000,Age 0-19,Details about Age 0-19 in London
 London,51.5074,-0.1278,4000000,Age 20-39,Details about Age 20-39 in London
 London,51.5074,-0.1278,1500000,Age 40-59,Details about Age 40-59 in London
 London,51.5074,-0.1278,500000,Age 60+,Details about Age 60+ in London
+London,51.5074,-0.1278,4500000,Male,Details about Male population in London
+London,51.5074,-0.1278,4500000,Female,Details about Female population in London
 Manchester,53.483959,-2.244644,2800000,Total,Details about Manchester population
 Manchester,53.483959,-2.244644,900000,Age 0-19,Details about Age 0-19 in Manchester
 Manchester,53.483959,-2.244644,1300000,Age 20-39,Details about Age 20-39 in Manchester
 Manchester,53.483959,-2.244644,450000,Age 40-59,Details about Age 40-59 in Manchester
 Manchester,53.483959,-2.244644,150000,Age 60+,Details about Age 60+ in Manchester
+Manchester,53.483959,-2.244644,1400000,Male,Details about Male population in Manchester
+Manchester,53.483959,-2.244644,1400000,Female,Details about Female population in Manchester
 Birmingham,52.486244,-1.890401,4200000,Total,Details about Birmingham population
 Birmingham,52.486244,-1.890401,1300000,Age 0-19,Details about Age 0-19 in Birmingham
 Birmingham,52.486244,-1.890401,1700000,Age 20-39,Details about Age 20-39 in Birmingham
 Birmingham,52.486244,-1.890401,800000,Age 40-59,Details about Age 40-59 in Birmingham
 Birmingham,52.486244,-1.890401,400000,Age 60+,Details about Age 60+ in Birmingham
+Birmingham,52.486244,-1.890401,2100000,Male,Details about Male population in Birmingham
+Birmingham,52.486244,-1.890401,2100000,Female,Details about Female population in Birmingham
+Leeds,53.800755,-1.549077,790000,Total,Details about Leeds population
+Leeds,53.800755,-1.549077,200000,Age 0-19,Details about Age 0-19 in Leeds
+Leeds,53.800755,-1.549077,300000,Age 20-39,Details about Age 20-39 in Leeds
+Leeds,53.800755,-1.549077,190000,Age 40-59,Details about Age 40-59 in Leeds
+Leeds,53.800755,-1.549077,100000,Age 60+,Details about Age 60+ in Leeds
+Leeds,53.800755,-1.549077,395000,Male,Details about Male population in Leeds
+Leeds,53.800755,-1.549077,395000,Female,Details about Female population in Leeds
+Glasgow,55.864237,-4.251806,630000,Total,Details about Glasgow population
+Glasgow,55.864237,-4.251806,150000,Age 0-19,Details about Age 0-19 in Glasgow
+Glasgow,55.864237,-4.251806,250000,Age 20-39,Details about Age 20-39 in Glasgow
+Glasgow,55.864237,-4.251806,150000,Age 40-59,Details about Age 40-59 in Glasgow
+Glasgow,55.864237,-4.251806,80000,Age 60+,Details about Age 60+ in Glasgow
+Glasgow,55.864237,-4.251806,315000,Male,Details about Male population in Glasgow
+Glasgow,55.864237,-4.251806,315000,Female,Details about Female population in Glasgow
+Liverpool,53.408371,-2.991573,490000,Total,Details about Liverpool population
+Liverpool,53.408371,-2.991573,120000,Age 0-19,Details about Age 0-19 in Liverpool
+Liverpool,53.408371,-2.991573,200000,Age 20-39,Details about Age 20-39 in Liverpool
+Liverpool,53.408371,-2.991573,110000,Age 40-59,Details about Age 40-59 in Liverpool
+Liverpool,53.408371,-2.991573,60000,Age 60+,Details about Age 60+ in Liverpool
+Liverpool,53.408371,-2.991573,245000,Male,Details about Male population in Liverpool
+Liverpool,53.408371,-2.991573,245000,Female,Details about Female population in Liverpool
