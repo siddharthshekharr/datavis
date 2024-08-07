@@ -20,3 +20,24 @@ Birmingham,800000,Age 40-59
 Birmingham,400000,Age 60+
 Birmingham,2100000,Male
 Birmingham,2100000,Female
+Leeds,790000,Total
+Leeds,200000,Age 0-19
+Leeds,300000,Age 20-39
+Leeds,190000,Age 40-59
+Leeds,100000,Age 60+
+Leeds,395000,Male
+Leeds,395000,Female
+Glasgow,630000,Total
+Glasgow,150000,Age 0-19
+Glasgow,250000,Age 20-39
+Glasgow,150000,Age 40-59
+Glasgow,80000,Age 60+
+Glasgow,315000,Male
+Glasgow,315000,Female
+Liverpool,490000,Total
+Liverpool,120000,Age 0-19
+Liverpool,200000,Age 20-39
+Liverpool,110000,Age 40-59
+Liverpool,60000,Age 60+
+Liverpool,245000,Male
+Liverpool,245000,Female
