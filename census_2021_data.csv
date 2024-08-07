@@ -1,0 +1,65 @@
+region,category,value
+England,0-14,17.4
+England,15-24,11.9
+England,25-44,26.7
+England,45-64,25.3
+England,65+,18.7
+Scotland,0-14,16.1
+Scotland,15-24,11.7
+Scotland,25-44,25.9
+Scotland,45-64,26.5
+Scotland,65+,19.8
+Wales,0-14,16.5
+Wales,15-24,11.8
+Wales,25-44,23.9
+Wales,45-64,26.8
+Wales,65+,21.0
+Northern Ireland,0-14,19.0
+Northern Ireland,15-24,12.6
+Northern Ireland,25-44,26.5
+Northern Ireland,45-64,25.4
+Northern Ireland,65+,16.5
+England,Owner occupied,63.5
+England,Private rented,19.7
+England,Social rented,16.8
+Scotland,Owner occupied,62.0
+Scotland,Private rented,14.8
+Scotland,Social rented,23.2
+Wales,Owner occupied,68.8
+Wales,Private rented,15.3
+Wales,Social rented,15.9
+Northern Ireland,Owner occupied,70.3
+Northern Ireland,Private rented,15.9
+Northern Ireland,Social rented,13.8
+England,Employed,75.1
+England,Unemployed,4.2
+England,Economically inactive,20.7
+Scotland,Employed,74.8
+Scotland,Unemployed,4.3
+Scotland,Economically inactive,20.9
+Wales,Employed,72.2
+Wales,Unemployed,4.1
+Wales,Economically inactive,23.7
+Northern Ireland,Employed,71.9
+Northern Ireland,Unemployed,3.6
+Northern Ireland,Economically inactive,24.5
+England,White,84.2
+England,Asian,7.8
+England,Black,3.5
+England,Mixed,2.4
+England,Other,2.1
+Scotland,White,96.0
+Scotland,Asian,2.7
+Scotland,Black,0.7
+Scotland,Mixed,0.4
+Scotland,Other,0.2
+Wales,White,95.6
+Wales,Asian,2.5
+Wales,Black,0.6
+Wales,Mixed,1.0
+Wales,Other,0.3
+Northern Ireland,White,98.2
+Northern Ireland,Asian,1.1
+Northern Ireland,Black,0.2
+Northern Ireland,Mixed,0.3
+Northern Ireland,Other,0.2
