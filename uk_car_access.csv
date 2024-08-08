@@ -1,0 +1,31 @@
+region,access_level,percentage
+North East,No cars or vans,28.9
+North East,1 car or van,43.6
+North East,2 or more cars or vans,27.5
+North West,No cars or vans,24.5
+North West,1 car or van,43.5
+North West,2 or more cars or vans,32.0
+Yorkshire and The Humber,No cars or vans,24.1
+Yorkshire and The Humber,1 car or van,43.3
+Yorkshire and The Humber,2 or more cars or vans,32.6
+East Midlands,No cars or vans,19.4
+East Midlands,1 car or van,42.3
+East Midlands,2 or more cars or vans,38.3
+West Midlands,No cars or vans,22.5
+West Midlands,1 car or van,42.1
+West Midlands,2 or more cars or vans,35.4
+East of England,No cars or vans,17.1
+East of England,1 car or van,41.4
+East of England,2 or more cars or vans,41.5
+London,No cars or vans,41.1
+London,1 car or van,40.7
+London,2 or more cars or vans,18.2
+South East,No cars or vans,16.6
+South East,1 car or van,41.3
+South East,2 or more cars or vans,42.1
+South West,No cars or vans,17.1
+South West,1 car or van,43.5
+South West,2 or more cars or vans,39.4
+Wales,No cars or vans,22.1
+Wales,1 car or van,43.9
+Wales,2 or more cars or vans,34.0
